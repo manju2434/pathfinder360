@@ -104,10 +104,3 @@ $ ./metroworks
 </p>
 
 
-## :star2: Credit/Acknowledgment
-[![Contributors](https://img.shields.io/github/contributors/code-monk08/metroworks?style=for-the-badge)](https://github.com/code-monk08/metroworks/graphs/contributors)
-
-##  :lock: License
-[![License](https://img.shields.io/github/license/code-monk08/metroworks?style=for-the-badge)](https://github.com/code-monk08/metroworks/blob/master/LICENSE)
-
-
