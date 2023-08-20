@@ -85,22 +85,6 @@ $ ./metroworks
 
 - [DMRC](http://www.delhimetrorail.com/)
 
-##  :camera: Gallery
-<p align="center">
-  <img src="./images/screenshots/1.png" width="800">
-</p>
 
-<p align="center">
-  <img src="./images/screenshots/2.png" width="800">
-</p>
-
-<p align="center">
-  <img src="./images/screenshots/3.png" width="800">
-</p>
-
-### Current Delhi Metro Stations (In our Program)
-<p align="center">
-  <img src="./graph.png" width="800">
-</p>
 
 
