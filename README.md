@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./images/logo/train.png" width="120">
-</p>
-
 - [About](#beginner-about)
 - [Usage](#zap-usage)
   - [Installation](#electric_plug-installation)
@@ -14,7 +10,7 @@
 - [License](#lock-license)
 
 ##  :beginner: About
-Metroworks in an application meant for linux users, It helps you find & visualize the Shortest Path between Delhi Metro Stations, it uses Graph Data Structure & Dijkstra's Algorithm.
+pathfinder in an application meant for linux users, It helps you find & visualize the Shortest Path between Delhi Metro Stations, it uses Graph Data Structure & Dijkstra's Algorithm.
 
 ## :zap: Usage
 To use this project.
@@ -39,8 +35,8 @@ $ sudo apt-get install notify-osd
 ###  :electric_plug: Commands
 - Start project using
 ```bash
-$ g++ -std=c++11 metroworks.cpp -o metroworks
-$ ./metroworks
+$ g++ -std=c++11 pathfinder.cpp -o pathfinder
+$ ./pathfinder
 ```
 
 ##  :file_folder: File Structure
