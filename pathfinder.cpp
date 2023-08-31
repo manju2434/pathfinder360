@@ -311,11 +311,6 @@ int main()
     system("sl -alfe");
     system("clear");
 
-    cout<<"\t\t"<<" __  __      _              __        __         _ "<<endl;
-    cout<<"\t\t"<<"|  \\/  | ___| |_ _ __ ___   \\ \\      / /__  _ __| | _____"<<endl;
-    cout<<"\t\t"<<"| |\\/| |/ _ \\ __| '__/ _ \\   \\ \\ /\\ / / _ \\| '__| |/ / __|"<<endl;
-    cout<<"\t\t"<<"| |  | |  __/ |_| | | (_) |   \\ V  V / (_) | |  |   <\\__ \\ " <<endl;
-    cout<<"\t\t"<<"|_|  |_|\\___|\\__|_|  \\___/     \\_/\\_/ \\___/|_|  |_|\\_\\___/"<<endl;
     system("echo  \"\e[96m\"");
     //system("figlet Metro Works");
     string source, destination;
